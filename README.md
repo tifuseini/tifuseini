@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Tahiru Fuseini Iddrisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tifuseini&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tifuseini&layout=compact)](https://github.com/tifuseini/github-readme-stats)
 
 
 <!--
