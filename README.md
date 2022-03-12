@@ -14,6 +14,7 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </p>
 
+
 <div align="center">
    📫 How to reach me:
   <br>
@@ -23,11 +24,13 @@
  <a href="https://open.spotify.com/user/osbptteek2g7g01atyft3tm1f?si=a8dc8ed3a91c48d9" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-   square&logo=spotify&logoColor=white" alt="Spotify"></a>
  <a href="https://dev.to/tifuseini" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white"  alt="DEV.to">
    
-   </div>
+</div>
   <br>
 
+![Tahiru Fuseini Iddrisu's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=tifuseini&hide_border=true&theme=redical)
 ![Tahiru Fuseini Iddrisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tifuseini&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tifuseini&layout=compact)](https://github.com/tifuseini/github-readme-stats)
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=tifuseini"></img>
 
 
 Thanks @ABSphreak , @ASovindu
