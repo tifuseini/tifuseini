@@ -28,10 +28,27 @@
 
 <div align="cemter">
 	<img src="https://activity-graph.herokuapp.com/graph?username=tifuseini&hide_border=true&theme=redical"></img>
-	<img src="https://github-readme-stats.vercel.app/api?username=tifuseini&show_icons=true&theme=dracula"></img>
+<!-- 	<img src="https://github-readme-stats.vercel.app/api?username=tifuseini&show_icons=true&theme=dracula"></img>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifuseini&layout=compact"></img>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=tifuseini"></img>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=tifuseini"></img> -->
 </div>
+
+<p align= "center">
+<a href="/">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=tifuseini&theme=midnight-purple&hide_border=true" />
+</a>
+</p>
+
+
+<p align= "center">
+<a href="/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifuseini&layout=compact&langs_count=10&theme=midnight-purple&hide_border=true&count-private=true" />
+</a>
+</p>
+
+<p align = "center">
+    <img width=1000 src="https://github-profile-trophy.vercel.app/?username=tifuseini&column=7&theme=gruvbox&no-frame=true"/>
+</p>
 
 
 
